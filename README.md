@@ -34,7 +34,7 @@ This project aims to identify the strength and significance of the correlation a
 
 ## Project Structure
 ```bash
-NPS-Biodiversity/
+Student-Exam-Scores/
 ├── student-exams.ipynb        # Main analysis notebook
 ├── data/
 │   ├── student_exam_scores.csv      # Dataset student exam scores and other variables
