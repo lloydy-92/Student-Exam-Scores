@@ -37,7 +37,7 @@ This project aims to identify the strength and significance of the correlation a
 Student-Exam-Scores/
 ├── student-exams.ipynb        # Main analysis notebook
 ├── data/
-│   ├── student_exam_scores.csv      # Dataset student exam scores and other variables
+│   ├── student_exam_scores.csv      # Dataset of student exam scores and other variables
 │   ├── correlation_summary.csv      # Self-created dataset of Pearson correlation test results summary
 │   └── regression_summary.csv      # Self-created dataset of Simple Linear Regression model results summary
 ├── requirements.txt          # Python dependencies
