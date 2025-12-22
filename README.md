@@ -3,9 +3,9 @@ This project aims to identify the strength and significance of the correlation a
 
 ## Key insights (Summary)
 > For full results, visualisations, and detailed discussion, open the Jupyter notebook student-exams.ipynb in this repository.
-- Cleaned messy columns, and dropped unneccessary and created useful columns, using ```pandas```.
+- Cleaned messy columns, and dropped unnecessary and created useful columns, using ```pandas```.
 - Visualised correlation between control variables (`hours_studied` `previous_score`, `sleep_hours`, `attendance_percent`) and outcome variable (`exam_score`) via scatterplots generated using ```matplotlib```.
-- Statistically tested for signifcant correlation (Pearson Correlation test) and causal link (Simple Linear Regression model) between each control variable and `exam_score` using `statsmodels`.
+- Statistically tested for significant correlation (Pearson Correlation test) and causal link (Simple Linear Regression model) between each control variable and `exam_score` using `statsmodels`.
 - Exported statistical testing results into separate `.csv` files `correlation_summary.csv` and `regression_summary.csv` for easy comparison.
 
 ## Tools and Libraries
