@@ -20,7 +20,7 @@ This project aims to identify the strength and significance of the correlation a
 1. **Clone this repository**
    ```bash
    git clone https://github.com/lloydy-92/Student-Exam-Scores.git
-   cd wines
+   cd Student-Exam-Scores
 2. **(Optional) Create and activate a virtual environment**
    ```bash
    python -m venv venv
