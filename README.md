@@ -41,6 +41,7 @@ Student-Exam-Scores/
 │   ├── correlation_summary.csv      # Self-created dataset of Pearson correlation test results summary
 │   └── regression_summary.csv      # Self-created dataset of Simple Linear Regression model results summary
 ├── requirements.txt          # Python dependencies
+├── analysis.md               # Written analysis file
 └── README.md                 # Project documentation
 ```
 
